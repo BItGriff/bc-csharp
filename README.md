@@ -3,7 +3,9 @@ bc-csharp
 
 Bouncy Castle C# Distribution with modifications by BitGriff LLC
 
-Differences from original:
+It's still work in progress.
+
+Planned Differences from original:
  - Added support for TLS Server
  - Added support for TLS-PSK client and server
  
